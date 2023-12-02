@@ -27,6 +27,7 @@ clock()
  *  1 day = 24 hrs
  *  1 hr = 60 mins
  *  60 min = 3600 sec
+ *  for the test use ist
  */
 
 setInterval(
